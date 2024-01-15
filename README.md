@@ -28,7 +28,7 @@ spring.datasource.password=123
     <db.password>123</db.password>
 </properties>
 ```
-4.Run the packaging command to generate an executable jar file 
+4. Run the packaging command to generate an executable jar file 
 ```sh
 mvn package -DskipTests
 ```
