@@ -1,6 +1,6 @@
 ## Anime community
 ## Functions  
-The existing Github and Gitee social platform login features include asking questions, replying, notifications, latest>Q&A, hottest topics, and eliminating zero replies.
+The existing Github and Gitee social platform login features include asking questions, replying, notifications, latest Q&A, hottest topics, and eliminating zero replies.
 
 ## Operation manual 
 1. Install essential tools  
@@ -51,7 +51,6 @@ http://localhost:8887
 |   H2  |   http://www.h2database.com/html/main.html  |
 |   Flyway  |   https://flywaydb.org/getstarted/firststeps/maven  |
 |Lombok| https://www.projectlombok.org |
-|Bootstrap|https://v3.bootcss.com/getting-started/|
 |Github OAuth|https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/|
 |UFile|https://github.com/ucloud/ufile-sdk-java|
 |Bootstrap|https://v3.bootcss.com/getting-started/|
